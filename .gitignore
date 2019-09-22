@@ -77,27 +77,6 @@ typings/
 # production
 build
 
-# next.js build output
-.next
-
-# nuxt.js build output
-.nuxt
-
-# react / gatsby 
-public/
-
-# vuepress build output
-.vuepress/dist
-
-# Serverless directories
-.serverless/
-
-# FuseBox cache
-.fusebox/
-
-# DynamoDB Local files
-.dynamodb/
-
 ### react ###
 .DS_*
 **/*.backup.*
