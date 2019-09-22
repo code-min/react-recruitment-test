@@ -1,0 +1,62 @@
+[
+   {
+      "Name":"Ferrari 812 Superfast",
+      "Miles_per_Gallon":14,
+      "Cylinders":8,
+      "Displacement":454,
+      "Horsepower":820,
+      "Weight_in_lbs":4354,
+      "Acceleration":9,
+      "Year":"2019-01-01",
+      "Origin":"it",
+      "Rentable": true
+   },
+   {
+      "Name":"dodge challenger se",
+      "Miles_per_Gallon":15,
+      "Cylinders":8,
+      "Displacement":383,
+      "Horsepower":170,
+      "Weight_in_lbs":3563,
+      "Acceleration":10,
+      "Year":"2008-01-01",
+      "Origin":"us",
+      "Rentable": false
+   },
+   {
+      "Name":"Cadillac Escalade",
+      "Miles_per_Gallon":44,
+      "Cylinders":4,
+      "Displacement":97,
+      "Horsepower":152,
+      "Weight_in_lbs":2130,
+      "Acceleration":24.6,
+      "Year":"2019-01-01",
+      "Origin":"us",
+      "Rentable": true
+   },
+   {
+      "Name":"Chevrolet Camaro",
+      "Miles_per_Gallon":28,
+      "Cylinders":4,
+      "Displacement":120,
+      "Horsepower":279,
+      "Weight_in_lbs":2625,
+      "Acceleration":18.6,
+      "Year":"2018-01-01",
+      "Origin":"us",
+      "Rentable": true
+   },
+   {
+      "Name":"Porsche Panamera",
+      "Miles_per_Gallon":31,
+      "Cylinders":4,
+      "Displacement":119,
+      "Horsepower":482,
+      "Weight_in_lbs":2720,
+      "Acceleration":19.4,
+      "Year":"2018-01-01",
+      "Origin":"de",
+      "Rentable": true
+   }
+]
