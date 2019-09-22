@@ -1,0 +1,56 @@
+{
+  "name": "react-recruitment-test",
+  "version": "1.0.0",
+  "description": "Notion. frontend react recruitment test",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "CI=true react-scripts test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notiongroup/react-recruitment-test.git"
+  },
+  "author": "Alexander Heinrich (https://notiongroup.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/notiongroup/react-recruitment-test/issues"
+  },
+  "homepage": "https://github.com/notiongroup/react-recruitment-test#readme",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "@types/lodash": "^4.14.138",
+    "@types/node": "^12.7.5",
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
+    "node-sass": "^4.12.0",
+    "npx": "^10.2.0",
+    "react-axe": "^3.3.0",
+    "react-scripts": "^3.1.2",
+    "typescript": "^3.6.3"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
