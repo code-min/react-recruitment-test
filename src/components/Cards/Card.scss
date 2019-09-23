@@ -1,0 +1,27 @@
+$purple-dark: #10007f;
+
+.card {
+  margin-right: 10px;
+  overflow: hidden;
+  
+  .card-text {
+    font-size: 13px;
+  }
+
+  p, h5 {
+    color: $purple-dark;
+  }
+
+  img {
+    margin-right: 4px;
+    position: relative;
+    left: 50px;
+  }
+}
+
+@media only screen and (min-width: 575px) {
+  .moveImgDown {
+    position: relative;
+    top: 30px;
+  }
+}
